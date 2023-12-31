@@ -1,0 +1,26 @@
+.abc{
+display:flex;}
+.abc {
+margin-right:40px;}
+
+.xyz{
+	display:flex;
+}
+	
+.a123{
+	color:white;
+}
+.def{
+	border:5px solid white;
+	margin:20px;
+}
+.def img{
+	width:400 px;
+	height:400 px;
+	margin:50px;
+}
+.b123{
+	color:yellow;
+}
+.c123{
+color:yellow;}
